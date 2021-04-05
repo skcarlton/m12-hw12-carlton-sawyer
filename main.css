@@ -1,0 +1,21 @@
+body{
+    background-image: url("hulaween.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 5%;
+    font-family: sans-serif;
+}
+
+h1, p {
+    color: white;
+    padding: 2%;
+}
+
+a {
+    padding: 2%;
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    border-radius: 4px;
+}
